@@ -1,0 +1,3 @@
+List of Things to Do:
+-Write data processing pipeline
+-Play with processed data using Pytorch
