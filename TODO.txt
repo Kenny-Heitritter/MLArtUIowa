@@ -1,3 +1,3 @@
 List of Things to Do:
--Write data processing pipeline
--Play with processed data using Pytorch
+-Implement MNIST classifer using Pytorch. This will be a nice stepping stone to using Pytorch with our data as the dataset is effectively the same.
+-Play around with Pytorch NN architectures (GPU) using our processed data. Determine an architecture that, hopefully, performs better than the simple multilayer perceptron used in the SimpleNN analysis.
