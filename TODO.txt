@@ -1,3 +1,3 @@
 List of Things to Do:
--Implement MNIST classifer using Pytorch. This will be a nice stepping stone to using Pytorch with our data as the dataset is effectively the same.
--Play around with Pytorch NN architectures (GPU) using our processed data. Determine an architecture that, hopefully, performs better than the simple multilayer perceptron used in the SimpleNN analysis.
+-Figure out why I can't get a better accuracy using Pytorch architecture than my initial diy multi-layer perceptron. They're fairly close (~21% vs ~24% accuracy) but I would think introducing convolutional neural network layers would improve training.
+
