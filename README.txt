@@ -3,4 +3,6 @@ AUTHOR = Kenneth Heitritter, Yannick Meurice
 INSTITUTION = The University of Iowa
 
 
-Environment managed using Conda. In order to recreate the proper environment use "conda env create --file environment.yaml"
+Environment managed using Conda. In order to recreate the proper environment use "conda env create --file environment.yaml". Likewise, to export modifed environment do "conda env export > environment.yml".
+
+
